@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "organaizer"
+    }
+  },
+  "defaultProject": "organaizer",
+  "cli": {
+    "analytics": "a5c879a6-36f4-47e7-ba6b-3578ee643b91"
+  }
 }
